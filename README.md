@@ -16,4 +16,4 @@ This is a simple image manipulation tool currently only useable through a limite
 - Then it takes the output image from any of the scenario's and resizes the image to a 256px x 256px dimensional format which then is saved as the original image.
 
 ### Note
-    provided image in the directory is a sample image to be used as testing for the project. It can be tested with any other image as long as the name remains the same!
+provided image in the directory is a sample image to be used as testing for the project. It can be tested with any other image as long as the name remains the same!
